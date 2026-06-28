@@ -1,0 +1,1 @@
+ALTER TABLE services_performed ADD COLUMN part_code TEXT DEFAULT '';
